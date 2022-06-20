@@ -1,0 +1,30 @@
+header {
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    color: yellow;
+}
+h1, h2 {
+    color: yellow;
+    font-weight: bold;
+    text-align: center;
+}
+p{
+    font-family: Arial;font-size: 16px;
+}
+.age{
+    color: lightgreen;
+}
+.sex{
+    color: lightblue;
+}
+.address{
+    color: orange;
+}
+.town{
+    color: aqua;
+}
+footer {
+    color: rebeccapurple;
+    text-align: right;
+}
